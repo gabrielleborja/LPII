@@ -31,12 +31,6 @@ public double calcularIMC(){
     return IMC;
 }
 
-public void imprimirDados(double IMC){
-    System.out.printf("Peso   => %.2f%n", peso);
-    System.out.printf("Altura => %.2f%n", altura);
-    System.out.printf("IMC = %.2f%n", IMC);
-}
-
 public String informarIMC(double IMC){
     if(IMC < 18.5) return "Pessoa Abaixo do peso\n";
     else if(IMC>=18.5 && IMC<=24.9) return "Pessoa com Peso normal\n";
