@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="aula02"/>
+	<classpathentry kind="src" path="aula03"/>
+	<classpathentry kind="src" path="aula06/src"/>
+	<classpathentry kind="src" path="aula07/src"/>
+	<classpathentry excluding="modelo/" kind="src" path="FuncoesBase/src"/>
+	<classpathentry kind="src" path="FuncoesBase/src/modelo"/>
+	<classpathentry kind="src" path="LPII_1710_pratica/src"/>
+	<classpathentry kind="src" path="prova_2210_LPII/src"/>
+	<classpathentry kind="output" path="FuncoesBase/bin"/>
+</classpath>
